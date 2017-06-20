@@ -11,7 +11,7 @@ Add the **pdf417** plugin to your project:
 Add Android platform support to the project:
 
     cordova platform add android
-    
+
 ### iOS
 
 Add iOS plaform support to the project:
