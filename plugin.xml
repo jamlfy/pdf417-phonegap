@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="pdf417-phonegap"
-    version="1.1.5">
+    version="1.1.8">
 
     <name>Pdf417Scanner</name>
     <description>A small and powerful PDF417 barcode scanning library</description>
@@ -116,6 +116,6 @@
         <asset src="src/wp8/res/Icons/icon_flashlight.png" target="Icons/icon_flashlight.png" />
         <asset src="src/wp8/res/Icons/icon_flashlight_selected.png" target="Icons/icon_flashlight_selected.png" />
         <asset src="src/wp8/res/Sounds/beep_pdf417.mp3" target="Sounds/beep_pdf417.mp3" />
-
     </platform>
+
 </plugin>
